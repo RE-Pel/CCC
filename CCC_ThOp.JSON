@@ -1,0 +1,24 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://www.patreon.com/kevdev",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTOKcdhUDkHXgNPVdcgahK4llylC0JaCWSkHRUnZn0JOTFUiP-Tk0g0NcIqWTsL0EpINmSaTdn8Sb4A/pubhtml?gid=1418514725&single=true",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}

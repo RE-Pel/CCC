@@ -4,20 +4,21 @@
   "autoStart": false,
   "lazyLoadTabs": false,
   "closeExistingTabs": false,
-  "websites": [
+  "websites":
+  [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
-      "duration": 8,
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQjMddLfYI_QSArTFnEpqG8EuHd1Thg7R6lK-YwWZ7F8NNuiSwhS55eAnX_QqDsCeczuKveNneXXVls/pubhtml?gid=1877028291&single=true",
+      "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
+      "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQjMddLfYI_QSArTFnEpqG8EuHd1Thg7R6lK-YwWZ7F8NNuiSwhS55eAnX_QqDsCeczuKveNneXXVls/pubhtml?gid=478052142&single=true",
+      "duration": 5,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTOKcdhUDkHXgNPVdcgahK4llylC0JaCWSkHRUnZn0JOTFUiP-Tk0g0NcIqWTsL0EpINmSaTdn8Sb4A/pubhtml?gid=1418514725&single=true",
-      "duration": 8,
+      "duration": 10,
       "tabReloadIntervalSeconds": 15
     }
   ]
